@@ -1,7 +1,7 @@
 {
-  "name": "coinhippo-ui",
+  "name": "coinidenty",
   "version": "0.0.1",
-  "description": "UI of CoinHippo",
+  "description": "UI of CoinIdenty",
   "scripts": {
     "dev": "next dev",
     "build": "next build"
