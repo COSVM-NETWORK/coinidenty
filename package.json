@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoinHippo-Labs/coinhippo-ui.git"
+    "url": "git+https://github.com/anymask/coinidenty.git"
   },
   "author": "CoinHippo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoinHippo-Labs/coinhippo-ui/issues"
+    "url": "https://github.com/anymask/coinidenty/issues"
   },
-  "homepage": "https://github.com/CoinHippo-Labs/coinhippo-ui#readme",
+  "homepage": "https://github.com/anymask/coinidenty/issues#readme",
   "dependencies": {
     "@0xsquid/sdk": "1.1.0-beta.7",
     "@redux-devtools/extension": "^3.2.3",
