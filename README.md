@@ -1,9 +1,9 @@
-# CoinHippo
-This is the frontend of [CoinHippo](https://coinhippo.io).
+# CoinIdenty
+This is the frontend of [CoinIdenty](https://coinidenty).
 
 ### Prerequisites
 - node >= 16.0.0
-- [CoinHippo API](https://github.com/CoinHippo-Labs/coinhippo-api)
+- [CoinIdenty API](https://github.com/anymask/coinidenty-api)
 
 ## Run on [localhost:3000](http://localhost:3000)
 ```bash
